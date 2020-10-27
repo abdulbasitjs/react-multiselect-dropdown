@@ -54,7 +54,7 @@ i,em {
 }
 .cusDDBtn span em {
   position: absolute;
-  background-image: url('../../assets/downArr.png');
+  background-image: url('./images/downArr.png');
   width: 20px;
   height: 20px;
   right: 10px;
@@ -125,7 +125,7 @@ i,em {
 
 .cusDDContent ul li a.active::after {
     content: '';
-    background-image: url('../../assets/checkBG.png');
+    background-image: url('./images/checkBG.png');
     position: absolute;
     right: 20px;
     top: 7px;
